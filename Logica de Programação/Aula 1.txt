@@ -1,2 +1,24 @@
 Logica de programação: significa apenas constetualizar a logia na programção de computadores, buscando a melhor sequencia de ações para solucionar um problema.
 
+Abstração: É a habilidade de concentrar nos aspcetos essenciais de um contexto qualquer ignorando caracteristicas menos importantes ou acidentais.
+
+O que são algoritimos e pseudocódigo
+
+Algoritimo: é uma sequencia de passos para resolver um problema. Ex:
+
+Inicio-dia
+	Acordei
+	Levantei da cama
+	Tirei a roupa          "Sequencia logica de de passos, a 	Escovei os dentes           ordem é importante deve e     
+	Fui para a padaria                   respeitada"
+	Tomei café
+	Escovei os dentes
+	Fui ao trabalho 
+	...
+Fim-dia
+	
+
+Pseudocódigo
+	É uma forma generica de escrever um algoritimo, utilizando uam linguagem simles(nativa, ou seja, em portugues a quem escreve, de forma a ser entendida por qualquer pessoa).
+
+ 
