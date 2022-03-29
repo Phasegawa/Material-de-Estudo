@@ -1,6 +1,6 @@
 LÓGICA DE PROGRAMAÇÃO ESSENCIAL
 
-Lógica de programação: significa apenas constetualizar a logia na programção de computadores, buscando a melhor sequencia de ações para solucionar um problema.
+Lógica de programação: significa apenas contextualizar a logica na programção de computadores, buscando a melhor sequencia de ações para solucionar um problema.
 
 Abstração: É a habilidade de concentrar nos aspcetos essenciais de um contexto qualquer ignorando caracteristicas menos importantes ou acidentais.
 
@@ -28,5 +28,12 @@ Pseudocódigo
 	É uma forma generica de escrever um algoritimo, utilizando uam linguagem simles(nativa, ou seja, em portugues a quem escreve, de forma a ser entendida por qualquer pessoa).
 
 
+Fluxograma, Variáveis e Constantes
+
+Fluxograma
+	É uma ferramenta utilizada para representar graficamente o algoritimo isto é, a sequencia logica e corrente do fluxo de dados. Também pode ser um tipo de diagrama e pode ser entendido como uamrepresentação esquemática de um processo. Podemos entendelo na pratica como a documentação dos passos necessarios para a execução de um processo qualquer.
+
+Variavéis
+	Na programação, uma variavel é um objeto(uma posição, frequentemente localizada na memoria)capaz de reter e representar um valor ou expressão ou é um espaço na memoria do computador destinado a um dado que é alterado durante a execução do algoritmo. 
 
  
